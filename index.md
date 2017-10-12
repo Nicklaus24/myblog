@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0029)https://nicklaus24.github.io/blog/ -->
 <html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
