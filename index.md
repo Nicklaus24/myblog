@@ -14,7 +14,7 @@
       <h1 class="project-name">欢迎来到我的博客</h1>
       
         <a href="https://cn.mikecrm.com/QWtJIUZ" class="btn">加入攀峰</a>
-      
+![](http://www.baidu.com/img/bdlogo.gif)      
       </section>
 
     <section class="main-content">
